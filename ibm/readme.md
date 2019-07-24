@@ -1,4 +1,4 @@
-#IBM
+# IBM
 
 - IBM is actively contributing to the Tekton project and using it as the foundation CI/CD technology for building cloud-native applications on Kubernetes in our public and hybrid clouds
 - We have invested UX and development resources to contribute the Tekton Dashboard to make Tekton easy to use for all developers
