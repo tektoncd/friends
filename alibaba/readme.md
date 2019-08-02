@@ -1,9 +1,9 @@
 # Alibaba
 
-- Alibaba is a heavy user of the Tekton project, but not only for CI/CD framework.
-- In Alibaba, there are tons of "middleware" services which are used to serve this company's E-business.
-- All of these services are stateful apps and managed by CRD + Controller, basically "nightmare" for deploy.
-- Alibaba now use Tekton to deliver these services across multiple clouds, automatically and seamlessly.
+- Alibaba is an active user of the Tekton project. The use case goes beyond CI/CD framework.
+- In Alibaba, thousands of "middleware" services are being used to support worldscale e-commerce and cloud business.
+- All of these services are stateful apps, which is supposed be "nightmare" to manage, managed effortlessly by Operators + CRD.
+- Alibaba now uses Tekton to continuously deliver these services across hybrid clouds.
 - We implemented Canary Analysis + Progressive Deployment based on Tekton, deliver with strategy and confidence.
-- We are committed to encourage the use of Tekton in Alibaba for more use cases, including CI/CD framework and SRE.
-- Yes, now our SRE team use Tekton to deploy kubelet, containerd etc to the 10000 nodes cluster in Alibaba.
+- We are dedicated to encouraging using Tekton across teams in a broader world, including testing and SRE teams.
+- Not so surprisingly, our SRE team uses Tekton to deploy kubelet, containerd, etc. to the 10k+ nodes cluster in Alibaba.
