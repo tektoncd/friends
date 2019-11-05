@@ -1,3 +1,5 @@
+![Tekton Friends logo (Tekton logo with rabbit and dog)](./tekton-friends.png)
+
 # Tekton Friends
 
 Knowing which individuals and companies are involved in the Tekton project and why would benefit the entire Tekton community.
