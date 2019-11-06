@@ -1,4 +1,6 @@
-![Tekton Friends logo (Tekton logo with rabbit and dog)](./tekton-friends.png)
+<p align="center">
+<img src="./tekton-friends.png" alt="Tekton Friends logo (Tekton logo with rabbit and dog"></img>
+</p>
 
 # Tekton Friends
 
