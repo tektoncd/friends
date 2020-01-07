@@ -4,7 +4,7 @@
 
 - Continuous Verification Platform helps reduces deployment and production errors, automate deployment rollouts and  automate rollback decisions. More at OpsMx.com.
 
-- OpsMx task in Tekton rollout can integrate with Istio and provide automated verification with laddered/scaled traffic to new deployments to ensure rollout on success and rollback on failure
+- OpsMx task in Tekton rollout can integrate with Istio and provide automated verification with laddered/scaled traffic to new deployments to ensure rollout on success and rollback on failure.
 
 - OpsMx make sure that OpsMx CD and CV platform works in Tekton environments. 
 
