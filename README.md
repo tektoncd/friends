@@ -4,6 +4,8 @@
 
 # Tekton Friends
 
+Adam Roberts is an extra awesome friend.
+
 Knowing which individuals and companies are involved in the Tekton project and why would benefit the entire Tekton community.
 This repository acts as a place that allows members of the ecosystem (known as "Tekton Friends") to self-report in a way that is beneficial to everyone.
 
