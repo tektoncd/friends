@@ -8,7 +8,6 @@
 
 - OpsMx make sure that OpsMx CD and CV platform works in Tekton environments. 
 
-- In Addition, OpsMx's interest is to integrate Spinnaker and Tekton to serve Continuous Delivery over multi-cloud Infrastructure 
-
+- In Addition, OpsMx's interest is to integrate Spinnaker and Tekton to serve Continuous Delivery over multi-cloud Infrastructure.
 
 
